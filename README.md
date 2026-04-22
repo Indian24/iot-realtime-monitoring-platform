@@ -12,30 +12,35 @@ Designed for real-world domestic use, the system also includes automatic safety 
 
 ## 📱 App Preview
 
-## 📱 App Preview
-
-### 🏠 Dashboard (System Overview)
-![Dashboard](./assets/dashboard.jpeg)
-
-**Description:**  
-The main dashboard provides a real-time overview of the RO system, including pump status, current water level, daily consumption, incoming water temperature, and live TDS values. It gives users instant visibility into the purifier’s operational state.
-
----
-
-### 📊 History (Trends & Analysis)
-![History](./assets/history.jpeg)
-
-**Description:**  
-The history page stores and analyzes temperature and TDS trends over time. This supports predictive maintenance, helps estimate area-specific threshold temperatures, and can be used for machine-learning-based insight into membrane health and water quality behavior.
+<p align="center">
+  <img src="./assets/dashboard.jpeg" width="250"/>
+  &nbsp;&nbsp;
+  <img src="./assets/history.jpeg" width="250"/>
+  &nbsp;&nbsp;
+  <img src="./assets/settings.jpeg" width="250"/>
+</p>
 
 ---
 
-### ⚙️ Settings (Control & Refresh)
-![Settings](./assets/settings.jpeg)
+### 📝 Features Overview
 
-**Description:**  
-The settings page allows users to switch between automatic and manual pump control depending on household needs. It also lets users adjust the refresh interval, such as 5, 10, 30, or 60 seconds, based on network speed and live data update preference.
+- **🏠 Dashboard**
+  - Displays real-time pump status (ON/OFF)
+  - Shows tank water level and daily consumption
+  - Monitors incoming water temperature
+  - Displays real-time TDS values
 
+- **📊 History**
+  - Stores temperature and TDS data over time
+  - Enables trend analysis and performance tracking
+  - Supports ML-based threshold estimation for membrane safety
+  - Helps detect early signs of purifier degradation
+
+- **⚙️ Settings**
+  - Toggle between automatic and manual pump control
+  - Manual mode useful during high water demand (e.g., guests)
+  - Configure refresh intervals (5s, 10s, 30s, 60s)
+  - Optimizes data updates based on network conditions
 
 ## Key Highlights
 
