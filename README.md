@@ -481,29 +481,4 @@ Possible next steps for this project include:
 * hardware fault detection
 * richer historical graphs and insights
 * multi-device support
-
-## Why This Project Stands Out
-
-This project is strong because it combines multiple real engineering layers in one practical system:
-
-* hardware integration
-* firmware logic
-* backend development
-* MQTT-based communication
-* mobile app development
-* safety automation
-* live telemetry handling
-
-It demonstrates a real IoT architecture, live data flow, and a useful domestic application. The simulator fallback also shows that the system was designed for development, testing, and demo reliability.
-
-## License
-
-Use and modification rights can be added here based on your repository policy.
-
-## Acknowledgments
-
-Built as a smart retrofit IoT solution for RO purifier monitoring and automation.
-
-## Contact
-
 Project maintainer details can be added here if needed.
